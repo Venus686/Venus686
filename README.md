@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img  align="left" height="150" src="https://i.pinimg.com/564x/95/a5/41/95a54113f093f73f468fda7509e8868c.jpg"  />
-  <img  align="right" height="150" src="https://i.pinimg.com/564x/6e/46/26/6e462633c511e4b363dd590baf3d61c4.jpg"  />
+  <img  align="left" height="300" src="https://i.pinimg.com/564x/95/a5/41/95a54113f093f73f468fda7509e8868c.jpg"  />
+  <img  align="right" height="300" src="https://i.pinimg.com/564x/6e/46/26/6e462633c511e4b363dd590baf3d61c4.jpg"  />
 </div>
 
 ###
@@ -16,17 +16,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng nwvsu&psig=AOvVaw3GfswW8C7TtKU2fQWqUzCO&ust=1728597523146000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOC2kdylgokDFQAAAAAdAAAAABAE"  />
 </div>
 
 ###
