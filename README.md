@@ -14,8 +14,6 @@
 ###
 
 <div align="left">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AISO_C%252B%252B_Logo.svg&psig=AOvVaw3GfswW8C7TtKU2fQWqUzCO&ust=1728597523146000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOC2kdylgokDFQAAAAAdAAAAABAJ"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
