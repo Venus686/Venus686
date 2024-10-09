@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://i.pinimg.com/564x/95/a5/41/95a54113f093f73f468fda7509e8868c.jpg"  />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph](https://i.pinimg.com/564x/6e/46/26/6e462633c511e4b363dd590baf3d61c4.jpg)"  />
+  <img src="https://i.pinimg.com/564x/6e/46/26/6e462633c511e4b363dd590baf3d61c4.jpg"  />
 </div>
 
 ###
