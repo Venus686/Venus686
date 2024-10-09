@@ -1,15 +1,15 @@
-<h2 align="left">Hi 💜! My name is Lucia and I'm a engineering student, from Málaga</h2>
+<h1 align="center">Hi 💜! My name is Lucia</h1>
 
 ###
 
 <div align="center">
   <img  align="left" height="300" src="https://i.pinimg.com/564x/95/a5/41/95a54113f093f73f468fda7509e8868c.jpg"  />
-  <img  align="right" height="300" src="https://i.pinimg.com/564x/6e/46/26/6e462633c511e4b363dd590baf3d61c4.jpg"  />
+  <img  align="right" height="300" src="https://i.pinimg.com/564x/6e/46/26/6e462633c511e4b363dd590baf3d61c4.jpg" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif"  />
+<img align="left" height="300" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif"  /><br/>
 
 ###
 
@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venus686&show_icons=true&theme=onedark)
 
 ###
