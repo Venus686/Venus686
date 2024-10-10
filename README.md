@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **luciazamudio868@gmail.com**
 
-<img align="right" alt="Cat" width="200" src="https://i.pinimg.com/originals/42/70/b2/4270b2c2425591574863b01709041262.jpg" >
+<img align="right" alt="Cat" width="150" src="https://i.pinimg.com/originals/42/70/b2/4270b2c2425591574863b01709041262.jpg" >
 <br>
 
 <p align="left">
